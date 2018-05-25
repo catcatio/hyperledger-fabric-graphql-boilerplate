@@ -47,7 +47,7 @@ docker-compose up
 go to `http://localhost:7050/chain`
 
 ## Go to Hyperledger Explorer
-go to `http://localhost:9090`
+go to `http://localhost:8080`
 
 ## How to test chaincode
 ```
