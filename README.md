@@ -1,5 +1,18 @@
 # Hyperledger Fabric GraphQL Boilerplate
 
+## How to use
+> Forked for run inside container for developments purpose (nodemon)
+```shell
+# To build docker image for graphql
+npm run graphql:build
+
+# To run all stacks
+docker-compose up
+```
+
+## Below steps is from original
+- - - 
+
 This is a boilerplate to start using hyperledger fabric blockchain with GraphQL
 
 - based on: [fabric-boilerplate](https://github.com/IBM-Blockchain/fabric-boilerplate)
